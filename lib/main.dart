@@ -55,7 +55,7 @@ class HomePage extends StatelessWidget {
                     borderRadius: BorderRadius.only(topLeft: Radius.circular(60), topRight: Radius.circular(60))
                     ),
               child: Padding(
-                padding: EdgeInsets.all(30),
+                padding: EdgeInsets.all(35),
                 child: Column(
                   children: <Widget>[
                     SizedBox(height: 60,),
